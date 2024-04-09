@@ -1,7 +1,7 @@
 # KSN
 KSN_Projekt
 
-Das ist das KSN Projekt von Sascha Ensmann, kenan Hodzic und Antonia Dzidzic über GNU Radio.
+Das ist das KSN Projekt von Sascha Ensmann, kenan Hodzic und Xuxiang Chen über GNU Radio.
 
 GNU Radio ermöglicht die Entwicklung von SDR-Anwendungen, bei denen Hardwarekomponenten eines Radios durch Software ersetzt werden. Diese Umstellung führt zu einer beträchtlichen Flexibilität und Anpassungsfähigkeit.
 
